@@ -15,9 +15,10 @@ A modern web application for collecting, managing, and reviewing patient informa
 
 ---
 
-## Live Demo
+## Demo Routes
 
-👉 [Click here to view the deployed application](YOUR_DEPLOYED_LINK)
+- User Page: agnostest.vercel.app
+- Staff Dashboard: agnostest.vercel.app/staff
 
 ---
 
@@ -45,8 +46,8 @@ A modern web application for collecting, managing, and reviewing patient informa
 ### 1. Clone the repository
 
 ```
-git clone https://github.com/YOUR_USERNAME/YOUR_REPO.git
-cd YOUR_REPO
+git clone https://github.com/miinnyys/agnostest.git
+cd agnostest
 ```
 
 ### 2. Install dependencies
